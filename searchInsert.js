@@ -15,5 +15,5 @@ function searchinsert(n){
 }
 console.log(
 
-    searchinsert(9)
+    searchinsert(2)
     );
